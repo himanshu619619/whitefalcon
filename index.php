@@ -95,7 +95,7 @@
 								<div class="sc-heading article_heading">
 									<h4 class="heading__primary">Diverse Destinations</h4></div>
 								<div class="desc-icon-box">
-									<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</div>
+								
 								</div>
 							</div>
 						</div>
@@ -109,7 +109,7 @@
 								<div class="sc-heading article_heading">
 									<h4 class="heading__primary">Value for Money</h4></div>
 								<div class="desc-icon-box">
-									<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</div>
+								
 								</div>
 							</div>
 						</div>
@@ -123,7 +123,7 @@
 								<div class="sc-heading article_heading">
 									<h4 class="heading__primary">Beautiful Places</h4></div>
 								<div class="desc-icon-box">
-									<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</div>
+								
 								</div>
 							</div>
 						</div>
@@ -137,7 +137,7 @@
 								<div class="sc-heading article_heading">
 									<h4 class="heading__primary">Passionate Travel</h4></div>
 								<div class="desc-icon-box">
-									<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</div>
+								
 								</div>
 							</div>
 						</div>
