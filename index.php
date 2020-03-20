@@ -159,24 +159,18 @@
 									<div class="item_content">
 										<div class="post_images">
 											<a href="single-tour.php" class="travel_tour-LoopProduct-link">
-											<span class="price"><del>
-												<span class="travel_tour-Price-amount amount">$87.00</span></del>
-												<ins><span class="travel_tour-Price-amount amount">$82.00</span></ins>
-											</span>
-												<span class="onsale">Sale!</span>
+											
+									
 												<img src="images/tour/430x305/tour-1.jpg" alt="" title="">
 											</a>
-											<div class="group-icon">
-												<a href="#" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="River Cruise"><i class="flaticon-transport-2"></i></a>
-												<a href="#" data-toggle="tooltip" data-placement="top" title="" data-original-title="Wildlife"><i class="flaticon-island"></i></a>
-											</div>
+										
 										</div>
 										<div class="wrapper_content">
 											<div class="post_title"><h4>
-												<a href="single-tour.php" rel="bookmark">Kiwiana Panorama</a>
+												<a href="single-tour.php" rel="bookmark">India Tour Package</a>
 											</h4></div>
-											<span class="post_date">5 DAYS 4 NIGHTS</span>
-											<p>Aliquam lacus nisl, viverra convallis sit amet&nbsp;penatibus nunc&nbsp;luctus</p>
+											<span class="post_date">16 DAYS </span>
+											<p><strong>Destination : </strong> - Lucknow - Varanasi - Khajuraho - Bandhavgarh National Park - Khajuraho - Agra - Jaipur - Deogarh - Udaipur – Delhi </p>
 										</div>
 									</div>
 									<div class="read_more">
@@ -288,72 +282,8 @@
 									</div>
 								</div>
 							</div>
-							<div class="item-tour">
-								<div class="item_border">
-									<div class="item_content">
-										<div class="post_images">
-											<a href="single-tour.php" class="travel_tour-LoopProduct-link">
-											<span class="price">
-												<span class="travel_tour-Price-amount amount">$94.00</span>
-											</span>
-												<img src="images/tour/430x305/tour-5.jpg" alt="" title="">
-											</a>
-											<div class="group-icon">
-												<a href="#" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="River Cruise"><i class="flaticon-transport-2"></i></a>
-												<a href="#" data-toggle="tooltip" data-placement="top" title="" data-original-title="Wildlife"><i class="flaticon-island"></i></a>
-											</div>
-										</div>
-										<div class="wrapper_content">
-											<div class="post_title"><h4>
-												<a href="single-tour.php" rel="bookmark">Discover Brazil</a>
-											</h4></div>
-											<span class="post_date">5 DAYS 4 NIGHTS</span>
-											<p>Aliquam lacus nisl, viverra convallis sit amet&nbsp;penatibus nunc&nbsp;luctus</p>
-										</div>
-									</div>
-									<div class="read_more">
-										<div class="item_rating">
-											<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
-										</div>
-										<a href="single-tour.php" class="read_more_button">VIEW MORE
-											<i class="fa fa-long-arrow-right"></i></a>
-										<div class="clear"></div>
-									</div>
-								</div>
-							</div>
-							<div class="item-tour">
-								<div class="item_border">
-									<div class="item_content">
-										<div class="post_images">
-											<a href="single-tour.php" class="travel_tour-LoopProduct-link">
-											<span class="price">
-												<span class="travel_tour-Price-amount amount">$91.00</span>
-											</span>
-												<img src="images/tour/430x305/tour-6.jpg" alt="" title="">
-											</a>
-											<div class="group-icon">
-												<a href="#" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="River Cruise"><i class="flaticon-transport-2"></i></a>
-												<a href="#" data-toggle="tooltip" data-placement="top" title="" data-original-title="Wildlife"><i class="flaticon-island"></i></a>
-											</div>
-										</div>
-										<div class="wrapper_content">
-											<div class="post_title"><h4>
-												<a href="single-tour.php" rel="bookmark">Cuzco to Anchorage</a>
-											</h4></div>
-											<span class="post_date">5 DAYS 4 NIGHTS</span>
-											<p>Aliquam lacus nisl, viverra convallis sit amet&nbsp;penatibus nunc&nbsp;luctus</p>
-										</div>
-									</div>
-									<div class="read_more">
-										<div class="item_rating">
-											<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
-										</div>
-										<a href="single-tour.php" class="read_more_button">VIEW MORE
-											<i class="fa fa-long-arrow-right"></i></a>
-										<div class="clear"></div>
-									</div>
-								</div>
-							</div>
+						
+							
 						</div>
 					</div>
 				</div>
@@ -426,205 +356,8 @@
 					</div>
 				</div>
 			</div>
-			<div class="padding-top-6x padding-bottom-6x bg__shadow section-background" style="background-image:url(images/home/bg-pallarax.jpg)">
-				<div class="container">
-					<div class="shortcode_title text-white title-center title-decoration-bottom-center">
-						<div class="title_subtitle">Some statistics about Travel WP</div>
-						<h3 class="title_primary">CENTER ACHIEVEMENTS</h3>
-						<span class="line_after_title" style="color:#ffffff"></span>
-					</div>
-					<div class="row">
-						<div class="col-sm-3">
-							<div class="stats_counter text-center text-white">
-								<div class="wrapper-icon">
-									<i class="flaticon-airplane"></i>
-								</div>
-								<div class="stats_counter_number">94,532</div>
-								<div class="stats_counter_title">Customers</div>
-							</div>
-						</div>
-						<div class="col-sm-3">
-							<div class="stats_counter text-center text-white">
-								<div class="wrapper-icon">
-									<i class="flaticon-island"></i>
-								</div>
-								<div class="stats_counter_number">1021</div>
-								<div class="stats_counter_title">Destinations</div>
-							</div>
-						</div>
-						<div class="col-sm-3">
-							<div class="stats_counter text-center text-white">
-								<div class="wrapper-icon">
-									<i class="flaticon-globe"></i>
-								</div>
-								<div class="stats_counter_number">20,096</div>
-								<div class="stats_counter_title">Tours</div>
-							</div>
-						</div>
-						<div class="col-sm-3">
-							<div class="stats_counter text-center text-white">
-								<div class="wrapper-icon">
-									<i class="flaticon-people"></i>
-								</div>
-								<div class="stats_counter_number">12</div>
-								<div class="stats_counter_title">Tour types</div>
-							</div>
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-sm-12 text-center padding-top-6x">
-							<a href="https://themeforest.net/item/travel-php-tour-travel-php-template-for-travel-agency-and-tour-operator/19504894" class="icon-btn" title="Tour php Template - Travel php Template" target="_blank">
-								<i class="flaticon-cart"></i> Purchase theme
-							</a>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="section-white padding-top-6x padding-bottom-6x">
-				<div class="container">
-					<div class="shortcode_title title-center title-decoration-bottom-center">
-						<h3 class="title_primary">DEALS AND DISCOUNTS</h3><span class="line_after_title"></span>
-					</div>
-					<div class="row wrapper-tours-slider">
-						<div class="tours-type-slider list_content" data-dots="true" data-nav="true" data-responsive='{"0":{"items":1}, "480":{"items":2}, "768":{"items":3}, "992":{"items":3}, "1200":{"items":3}}'>
-							<div class="item-tour">
-								<div class="item_border">
-									<div class="item_content">
-										<div class="post_images">
-											<a href="single-tour.php" class="travel_tour-LoopProduct-link">
-											<span class="price">
-												<span class="travel_tour-Price-amount amount">$89.00</span>
-											</span>
-												<img src="images/tour/430x305/tour-3.jpg" alt="" title="">
-											</a>
-											<div class="group-icon">
-												<a href="#" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="River Cruise"><i class="flaticon-transport-2"></i></a>
-												<a href="#" data-toggle="tooltip" data-placement="top" title="" data-original-title="Wildlife"><i class="flaticon-island"></i></a>
-											</div>
-										</div>
-										<div class="wrapper_content">
-											<div class="post_title"><h4>
-												<a href="single-tour.php" rel="bookmark">Anchorage to Santiago</a>
-											</h4></div>
-											<span class="post_date">5 DAYS 4 NIGHTS</span>
-											<p>Aliquam lacus nisl, viverra convallis sit amet&nbsp;penatibus nunc&nbsp;luctus</p>
-										</div>
-									</div>
-									<div class="read_more">
-										<div class="item_rating">
-											<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
-										</div>
-										<a href="single-tour.php" class="read_more_button">VIEW MORE
-											<i class="fa fa-long-arrow-right"></i></a>
-										<div class="clear"></div>
-									</div>
-								</div>
-							</div>
-							<div class="item-tour">
-								<div class="item_border">
-									<div class="item_content">
-										<div class="post_images">
-											<a href="single-tour.php" class="travel_tour-LoopProduct-link">
-											<span class="price">
-												<span class="travel_tour-Price-amount amount">90.00</span>
- 											</span>
-												<img src="images/tour/430x305/tour-4.jpg" alt="" title="">
-											</a>
-											<div class="group-icon">
-												<a href="#" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="River Cruise"><i class="flaticon-transport-2"></i></a>
-												<a href="#" data-toggle="tooltip" data-placement="top" title="" data-original-title="Wildlife"><i class="flaticon-island"></i></a>
-											</div>
-										</div>
-										<div class="wrapper_content">
-											<div class="post_title"><h4>
-												<a href="single-tour.php" rel="bookmark">Anchorage to Ushuaia</a>
-											</h4></div>
-											<span class="post_date">5 DAYS 4 NIGHTS</span>
-											<p>Aliquam lacus nisl, viverra convallis sit amet&nbsp;penatibus nunc&nbsp;luctus</p>
-										</div>
-									</div>
-									<div class="read_more">
-										<div class="item_rating">
-											<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
-										</div>
-										<a href="single-tour.php" class="read_more_button">VIEW MORE
-											<i class="fa fa-long-arrow-right"></i></a>
-										<div class="clear"></div>
-									</div>
-								</div>
-							</div>
-							<div class="item-tour">
-								<div class="item_border">
-									<div class="item_content">
-										<div class="post_images">
-											<a href="single-tour.php" class="travel_tour-LoopProduct-link">
-											<span class="price">
-												<span class="travel_tour-Price-amount amount">$94.00</span>
-											</span>
-												<img src="images/tour/430x305/tour-5.jpg" alt="" title="">
-											</a>
-											<div class="group-icon">
-												<a href="#" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="River Cruise"><i class="flaticon-transport-2"></i></a>
-												<a href="#" data-toggle="tooltip" data-placement="top" title="" data-original-title="Wildlife"><i class="flaticon-island"></i></a>
-											</div>
-										</div>
-										<div class="wrapper_content">
-											<div class="post_title"><h4>
-												<a href="single-tour.php" rel="bookmark">Discover Brazil</a>
-											</h4></div>
-											<span class="post_date">5 DAYS 4 NIGHTS</span>
-											<p>Aliquam lacus nisl, viverra convallis sit amet&nbsp;penatibus nunc&nbsp;luctus</p>
-										</div>
-									</div>
-									<div class="read_more">
-										<div class="item_rating">
-											<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
-										</div>
-										<a href="single-tour.php" class="read_more_button">VIEW MORE
-											<i class="fa fa-long-arrow-right"></i></a>
-										<div class="clear"></div>
-									</div>
-								</div>
-							</div>
-							<div class="item-tour">
-								<div class="item_border">
-									<div class="item_content">
-										<div class="post_images">
-											<a href="single-tour.php" class="travel_tour-LoopProduct-link">
-											<span class="price"><del>
-												<span class="travel_tour-Price-amount amount">$87.00</span></del>
-												<ins><span class="travel_tour-Price-amount amount">$82.00</span></ins>
-											</span>
-												<span class="onsale">Sale!</span>
-												<img src="images/tour/430x305/tour-1.jpg" alt="" title="">
-											</a>
-											<div class="group-icon">
-												<a href="#" data-toggle="tooltip" data-placement="top" title="" class="frist" data-original-title="River Cruise"><i class="flaticon-transport-2"></i></a>
-												<a href="#" data-toggle="tooltip" data-placement="top" title="" data-original-title="Wildlife"><i class="flaticon-island"></i></a>
-											</div>
-										</div>
-										<div class="wrapper_content">
-											<div class="post_title"><h4>
-												<a href="single-tour.php" rel="bookmark">Kiwiana Panorama</a>
-											</h4></div>
-											<span class="post_date">5 DAYS 4 NIGHTS</span>
-											<p>Aliquam lacus nisl, viverra convallis sit amet&nbsp;penatibus nunc&nbsp;luctus</p>
-										</div>
-									</div>
-									<div class="read_more">
-										<div class="item_rating">
-											<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
-										</div>
-										<a href="single-tour.php" class="read_more_button">VIEW MORE
-											<i class="fa fa-long-arrow-right"></i></a>
-										<div class="clear"></div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
+		
+	
 
 			<div class="bg__shadow padding-top-6x padding-bottom-6x section-background" style="background-image:url(images/home/bg-pallarax.jpg)">
 				<div class="container">
@@ -650,7 +383,7 @@
 			<div class="section-white padding-top-6x padding-bottom-6x">
 				<div class="container">
 					<div class="row">
-						<div class="col-sm-4">
+						<div class="col-sm-12">
 							<div class="shortcode_title title-center title-decoration-bottom-center">
 								<h2 class="title_primary">Tours Reviews</h2>
 								<span class="line_after_title"></span>
@@ -705,56 +438,7 @@
 								</div>
 							</div>
 						</div>
-						<div class="col-sm-8">
-							<div class="shortcode_title title-center title-decoration-bottom-center">
-								<h2 class="title_primary">Latest Post</h2>
-								<span class="line_after_title"></span>
-							</div>
-							<div class="row">
-								<div class="post_list_content_unit col-sm-6">
-									<div class="feature-image">
-										<a href="#" class="entry-thumbnail">
-											<img width="370" height="260" src="images/blog/201H.jpg" alt="">
-										</a>
-									</div>
-									<div class="post-list-content">
-										<div class="post_list_inner_content_unit">
-											<h3 class="post_list_title">
-												<a href="single.php" rel="bookmark">Love advice from experts</a>
-											</h3>
-											<div class="wrapper-meta">
-												<div class="date-time">September 6, 2016</div>
-												<div class="post_list_cats">
-													<a href="#" rel="category tag">Technology</a>
-												</div>
-											</div>
-											<div class="post_list_item_excerpt">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam efficitur</div>
-										</div>
-									</div>
-								</div>
-								<div class="post_list_content_unit col-sm-6">
-									<div class="feature-image">
-										<a href="#" class="entry-thumbnail">
-											<img width="370" height="260" src="images/blog/86H.jpg" alt="">
-										</a>
-									</div>
-									<div class="post-list-content">
-										<div class="post_list_inner_content_unit">
-											<h3 class="post_list_title">
-												<a href="single.php" rel="bookmark">The perfect summer body</a>
-											</h3>
-											<div class="wrapper-meta">
-												<div class="date-time">September 6, 2016</div>
-												<div class="post_list_cats">
-													<a href="#" rel="category tag">Technology</a>
-												</div>
-											</div>
-											<div class="post_list_item_excerpt">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam efficitur</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
+						
 					</div>
 				</div>
 			</div>

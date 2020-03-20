@@ -22,8 +22,8 @@
 							<ul class="menu list-arrow">
 							
 								<li><a href="#">About Us</a></li>
-								<li><a href="#">Privacy Policy</a></li>
-								<li><a href="#">Contact Us</a></li>
+								<li><a href="gallery.php">Gallery</a></li>
+								<li><a href="contact.php">Contact Us</a></li>
 							</ul>
 						</div>
 					</aside>
@@ -68,14 +68,22 @@
 	</div>
 	
 </div>
+
 <script type='text/javascript' src='assets/js/jquery.min.js'></script>
-<script type='text/javascript' src='assets/js/bootstrap.min.js'></script>
-<script type='text/javascript' src='assets/js/vendors.js'></script>
+<?php  if($ram == NULL){  ?>
 <script type='text/javascript' src='assets/js/owl.carousel.min.js'></script>
+<?php  }?>
+<script type='text/javascript' src='assets/js/bootstrap.min.js'></script>
+
+<script type='text/javascript' src='assets/js/vendors.js'></script>
+
 <script type="text/javascript" src="assets/js/jquery.mb-comingsoon.min.js"></script>
 <script type="text/javascript" src="assets/js/waypoints.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery.counterup.min.js"></script>
 <script type='text/javascript' src='assets/js/theme.js'></script>
+
+
+
 </body>
 
 </html>

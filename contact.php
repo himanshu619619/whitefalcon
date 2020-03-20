@@ -4,7 +4,7 @@
 			<div class="banner-wrapper container article_heading">
 				<div class="breadcrumbs-wrapper">
 					<ul class="phys-breadcrumb">
-						<li><a href="index.html" class="home">Home</a></li>
+						<li><a href="index.php" class="home">Home</a></li>
 						<li>Contact</li>
 					</ul>
 				</div>

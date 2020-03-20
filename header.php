@@ -12,12 +12,15 @@
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css" media="all">
 	<link rel="stylesheet" href="assets/css/font-awesome.min.css" type="text/css" media="all">
 	<link rel="stylesheet" href="assets/css/flaticon.css" type="text/css" media="all">
+
+
 	<link rel="stylesheet" href="assets/css/font-linearicons.css" type="text/css" media="all">
 	<link rel="stylesheet" href="style.css" type="text/css" media="all">
 	<link rel="stylesheet" href="assets/css/travel-setting.css" type="text/css" media="all">
 	<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
+	
 </head>
-<body class="transparent_home_page">
+<body class="transparent_home_page single-product travel_tour-page travel_tour">
 <div class="wrapper-container">
 	<header id="masthead" class="site-header sticky_header affix-top">
 		<div class="header_top_bar">
@@ -56,7 +59,7 @@
 					<span class="icon-bar"></span>
 				</div>
 				<div class="width-logo sm-logo">
-					<a href="#" title="Travel" rel="home">
+					<a href="index.php" title="Travel" rel="home">
 						<img src="images/logo.png" alt="Logo" width="474" height="130" class="logo_transparent_static">
 						<img src="images/logo.png" alt="Sticky logo" width="474" height="130" class="logo_sticky">
 					</a>
