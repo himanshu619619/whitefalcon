@@ -35,7 +35,7 @@
 								</li>
 								<li class="hb-form-field">
 									<div class="hb-form-field-input hb_input_field">
-										<input type="text" name="text" placeholder="message">
+										<input type="text" name="message" placeholder="message">
 									</div>
 								</li>
 								
