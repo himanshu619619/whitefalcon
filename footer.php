@@ -11,7 +11,7 @@
 									<li><i class="fa fa-map-marker fa-fw"></i> Office no 303, 3rd floor Agro mall sector 14, opposite gate no 2 mdu, Rohtak</li>
 									<li><i class="fa fa-phone fa-fw"></i> +91 76009 56434</li>
 									<li>
-										<i class="fa fa-envelope fa-fw"></i><a href="mailto:info@white.com"> info@white.com</a>
+										<i class="fa fa-envelope fa-fw"></i><a href="mailto:info@white.com"> info@whitefalcontravels.com</a>
 									</li>
 								</ul>
 							</div>
@@ -70,7 +70,7 @@
 </div>
 
 <script type='text/javascript' src='assets/js/jquery.min.js'></script>
-<?php  if($ram == NULL){  ?>
+<?php  if(@$ram == NULL){  ?>
 <script type='text/javascript' src='assets/js/owl.carousel.min.js'></script>
 <?php  }?>
 <script type='text/javascript' src='assets/js/bootstrap.min.js'></script>

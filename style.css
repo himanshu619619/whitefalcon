@@ -8698,6 +8698,11 @@ input[type=radio]:checked:before {
 	.interary-item .item_content {
 		padding-left: 55px;
 	}
+
+	.width-logo img {
+		margin:auto 50%!important;
+	}
+	.content-slider p{ margin-top:20px;}
 }
 
 @media (max-height: 480px) {
@@ -8801,6 +8806,12 @@ input[type=radio]:checked:before {
 		display:       block;
 		margin-bottom: 8px;
 	}
+
+
+     .width-logo img{
+		margin:auto 20%!important;
+	}
+	.content-slider p{ margin-top:20px;}
 }
 
 @media (max-width: 320px) {
@@ -8849,4 +8860,9 @@ input[type=radio]:checked:before {
 	.banner-typed .desc {
 		font-size: 1em;
 	}
+
+	 .width-logo img{
+		margin:auto 20%!important;
+	}
+	.content-slider p{ margin-top:20px;}
 }

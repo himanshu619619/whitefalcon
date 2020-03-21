@@ -365,6 +365,10 @@ td{display: inherit;}
 																<span class="required">*</span></label>
 																<input id="email" name="email" type="email" value="" size="30" required="">
 															</p>
+															<p class="comment-form-email"><label for="Phone">Phone
+																<span class="required">*</span></label>
+																<input id="email" name="phone" type="text" value="" size="30" required="">
+															</p>
 															<p class="comment-form-rating">
 																<label>Your Rating</label>
 															</p>
@@ -405,25 +409,31 @@ td{display: inherit;}
 									<div class="custom_from">
 										<div role="form" class="wpcf7" lang="en-US" dir="ltr">
 											<div class="screen-reader-response"></div>
-											<form action="#" method="post" class="wpcf7-form" novalidate="novalidate">
+											<form action="#" method="post" class="wpcf7-form" id="contact">
 
 												<p>Fill up the form below to tell us what you're looking for</p>
 												<p>
 													<span class="wpcf7-form-control-wrap your-name">
-														<input type="text" name="your-name" value="" size="40" class="wpcf7-form-control" aria-invalid="false" placeholder="Your name*">
+														<input type="text" name="name" value="" size="40" class="wpcf7-form-control" aria-invalid="false" placeholder="Your name*" required>
 													</span>
 												</p>
 												<p>
 													<span class="wpcf7-form-control-wrap your-email">
-														<input type="email" name="your-email" value="" size="40" class="wpcf7-form-control" aria-invalid="false" placeholder="Email*">
+														<input type="email" name="email" value="" size="40" class="wpcf7-form-control" aria-invalid="false" placeholder="Email*" required>
+													</span>
+												</p>
+												<p>
+													<span class="wpcf7-form-control-wrap your-email">
+														<input type="text" name="phone" value="" size="40" class="wpcf7-form-control" aria-invalid="false" placeholder="Phone*" required>
 													</span>
 												</p>
 												<p>
 													<span class="wpcf7-form-control-wrap your-message">
-														<textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control" aria-invalid="false" placeholder="Message"></textarea>
+														<textarea name="message" cols="40" rows="10" class="wpcf7-form-control" aria-invalid="false" placeholder="Message" required></textarea>
 													</span>
 												</p>
 												<p>
+													<p  class="shows" > </p>
 													<input type="submit" value="Send Enquiry" class="wpcf7-form-control wpcf7-submit"><span class="ajax-loader"></span>
 												</p>
 											</form>
@@ -479,6 +489,30 @@ td{display: inherit;}
 			</div>
 		</section>
 	</div>
-
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> 
 
 	<?php $ram=1; include 'footer.php'; ?>
+	
+	<script>
+$('form#contact').submit(function(e){
+e.preventDefault();
+var form = $(this);
+$.ajax({
+type: 'post',	
+url: 'send_form_email.php',
+dataType: 'html',
+
+data: form.serialize(),
+success : function(data){    
+
+$(".shows").append("<p class='show alert alert-success' >Success! </p>");
+  $(".shows").fadeOut(6000);
+},
+error : function(){ alert("Somthing Went wrong");  }
+
+
+});
+
+
+});
+</script>

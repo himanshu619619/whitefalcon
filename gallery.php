@@ -53,12 +53,7 @@
 										<img src="images/tour/430x305/tour-5.jpg" alt="7 Things You Tell People">
 										<div class="gallery-item"><h4 class="title">7 Things You Tell People</h4></div>
 									</a></div>
-								<div class="col-sm-4 gallery_item-wrap gears swimbaits">
-									<a href="images/tour/tour-6.jpg" class="swipebox" title="The Sun Is Underappreciated">
-										<img src="images/tour/430x305/tour-6.jpg" alt="The Sun Is Underappreciated">
-										<div class="gallery-item"><h4 class="title">The Sun Is Underappreciated</h4>
-										</div>
-									</a></div>
+							
 								<div class="col-sm-4 gallery_item-wrap gears iinstructional">
 									<a href="images/tour/tour-3.jpg" class="swipebox" title="An Overly Close">
 										<img src="images/tour/430x305/tour-3.jpg" alt="An Overly Close">
@@ -70,28 +65,7 @@
 										<div class="gallery-item"><h4 class="title">The Santa Barbara Wildfire</h4>
 										</div>
 									</a></div>
-								<div class="col-sm-4 gallery_item-wrap gears iinstructional">
-									<a href="images/tour/tour-2.jpg" class="swipebox" title="A Perfect Day in the Nature">
-										<img src="images/tour/tour-2.jpg" alt="A Perfect Day in the Nature">
-										<div class="gallery-item"><h4 class="title">A Perfect Day in the Nature</h4>
-										</div>
-									</a></div>
-								<div class="col-sm-4 gallery_item-wrap competitions iinstructional">
-									<a href="images/tour/tour-4.jpg" class="swipebox" title="A smile is a sign of friendliness">
-										<img src="images/tour/430x305/tour-4.jpg" alt="A smile is a sign of friendliness">
-										<div class="gallery-item">
-											<h4 class="title">A smile is a sign of friendliness</h4></div>
-									</a></div>
-								<div class="col-sm-4 gallery_item-wrap gears swimbaits">
-									<a href="images/tour/tour-5.jpg" class="swipebox" title="A happy fammily">
-										<img src="images/tour/430x305/tour-5.jpg" alt="A happy fammily">
-										<div class="gallery-item"><h4 class="title">A happy fammily</h4></div>
-									</a></div>
-								<div class="col-sm-4 gallery_item-wrap competitions iinstructional">
-									<a href="images/tour/tour-3.jpg" class="swipebox" title="You big profit">
-										<img src="images/tour/430x305/tour-3.jpg" alt="You big profit">
-										<div class="gallery-item"><h4 class="title">You big profit</h4></div>
-									</a></div>
+							
 							</div>
 						</div>
 					</div>

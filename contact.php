@@ -29,7 +29,7 @@
 									</li>
 									
 									<li><label><i class="fa fa-envelope"></i>EMAIL</label>
-										<div class="des">info@white.com (tour) </div>
+										<div class="des">info@whitefalcontravels.com (tour) </div>
 									</li>
 									<li>
 										<label><i class="fa fa-clock-o"></i>WORKING HOURS</label>
@@ -46,29 +46,30 @@
 							<h4>Have a question?</h4>
 							<div role="form" class="wpcf7">
 								<div class="screen-reader-response"></div>
-								<form action="#" method="post" class="wpcf7-form" novalidate="novalidate">
+								<form action="#" id="contact" method="post" class="wpcf7-form" >
 									<div class="form-contact">
 										<div class="row-1x">
 											<div class="col-sm-6">
 													<span class="wpcf7-form-control-wrap your-name">
-														<input type="text" name="your-name" value="" size="40" class="wpcf7-form-control" placeholder="Your name*">
+														<input type="text" name="name" value="" size="40" class="wpcf7-form-control" placeholder="Your name*" required>
 													</span>
 											</div>
 											<div class="col-sm-6">
 													<span class="wpcf7-form-control-wrap your-email">
-														<input type="email" name="your-email" value="" size="40" class="wpcf7-form-control" placeholder="Email*">
+														<input type="email" name="email" value="" size="40" class="wpcf7-form-control" placeholder="Email*" required>
 													</span>
 											</div>
 										</div>
 										<div class="form-contact-fields">
 												<span class="wpcf7-form-control-wrap your-subject">
-													<input type="text" name="your-subject" value="" size="40" class="wpcf7-form-control" placeholder="Subject">
+													<input type="text" name="phone" value="" size="40" class="wpcf7-form-control" placeholder="phone">
 												</span>
 										</div>
 										<div class="form-contact-fields">
 											<span class="wpcf7-form-control-wrap your-message">
-												<textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" placeholder="Message"></textarea>
+												<textarea name="message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" placeholder="Message" required></textarea>
 												 </span><br>
+												 <p style="display:none;" class="alert alert-success shows">Success! </p>
 											<input type="submit" value="Submit" class="wpcf7-form-control wpcf7-submit">
 										</div>
 									</div>
@@ -92,3 +93,28 @@
 		</section>
 	</div>
 	<?php include 'footer.php'?>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> 
+	<script>
+$('form#contact').submit(function(e){
+e.preventDefault();
+var form = $(this);
+$.ajax({
+type: 'post',	
+url: 'send_form_email.php',
+dataType: 'html',
+
+data: form.serialize(),
+success : function(data){    
+alert(data);
+	$(".shows").show();
+  $(".shows").fadeOut(6000);
+},
+error : function(){ alert("Somthing Went wrong");  }
+
+
+});
+
+
+});
+
+	</script>

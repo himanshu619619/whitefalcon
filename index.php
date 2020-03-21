@@ -5,9 +5,7 @@
 
 <img src="images/home.jpg" alt="">
 
-				<!-- <video poster="images/video_slider.jpg" playsinline autoplay muted loop>
-					<source src="http://physcode.com/video/330149744.mp4" type="video/mp4">
-				</video> -->
+
 				<div class="content-slider">
 					<p>Find your special tour today </p>
 					<h2>With Travel Tours </h2>
@@ -18,60 +16,35 @@
 			<div class="slider-tour-booking">
 				<div class="container">
 					<div class="travel-booking-search hotel-booking-search travel-booking-style_1">
-						<form name="hb-search-form" action="" id="tourBookingForm">
+						<form  action="send_form_email.php" method="post" id="contact" onsubmit="alert('submit!');" >
 							<ul class="hb-form-table">
 								<li class="hb-form-field">
 									<div class="hb-form-field-input hb_input_field">
-										<input type="text" name="name_tour" value="" placeholder="Tour name">
+										<input type="text" name="name"  placeholder="name">
 									</div>
 								</li>
 								<li class="hb-form-field">
 									<div class="hb-form-field-input hb_input_field">
-										<select name="tourtax[tour_phys]">
-											<option value="0">Tour Type</option>
-											<option value="escorted-tour">Escorted Tour</option>
-											<option value="rail-tour">Rail Tour</option>
-											<option value="river-cruise">River Cruise</option>
-											<option value="tour-cruise">Tour &amp; Cruise</option>
-											<option value="wildlife">Wildlife</option>
-										</select>
+										<input type="text" name="phone"  placeholder="phone">
 									</div>
 								</li>
 								<li class="hb-form-field">
 									<div class="hb-form-field-input hb_input_field">
-										<select name="tourtax[pa_destination]">
-											<option value="0">Destination</option>
-											<option value="china">Brazil</option>
-											<option value="canada">Canada</option>
-											<option value="cuba">Cuba</option>
-											<option value="italy">Italy</option>
-											<option value="philippines">Philippines</option>
-											<option value="usa">USA</option>
-										</select></div>
+										<input type="email" name="email"  placeholder="E mail">
+									</div>
 								</li>
 								<li class="hb-form-field">
 									<div class="hb-form-field-input hb_input_field">
-										<select name="tourtax[pa_month]">
-											<option value="0">Month</option>
-											<option value="january">January</option>
-											<option value="february">February</option>
-											<option value="march">March</option>
-											<option value="april">April</option>
-											<option value="may">May</option>
-											<option value="june">June</option>
-											<option value="july">July</option>
-											<option value="august">August</option>
-											<option value="september">September</option>
-											<option value="october">October</option>
-											<option value="november">November</option>
-											<option value="december">December</option>
-										</select></div>
+										<input type="text" name="text" placeholder="message">
+									</div>
 								</li>
+								
 								<li class="hb-submit">
-									<button type="submit">Search Tours</button>
+								
+									<button type="submit">Submit</button>
 								</li>
 							</ul>
-							<input type="hidden" name="lang" value="">
+				
 
 						</form>
 					</div>
@@ -444,4 +417,7 @@
 			</div>
 		</div>
 	</div>
+	
+	
 <?php include 'footer.php'; ?>
+
